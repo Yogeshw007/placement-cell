@@ -36,7 +36,7 @@ app.use(
     },
     store: MongoStore.create({
       mongoUrl:
-        "mongodb+srv://Nitish:nitish33@cluster0.ksobj.mongodb.net/Ecommerce?retryWrites=true&w=majority",
+        "mongodb+srv://yogeshwar:yogesh123@placementcell65.pryluxi.mongodb.net/test",
       autoRemove: "disabled",
     }),
     function(err) {
